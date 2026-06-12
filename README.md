@@ -4,6 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00fdff&text=Isha%20Kumari&animation=twinkling&fontSize=50&fontAlignY=40&fontColor=ffffff&theme=dracula&height=220" width="100%" />
 </p>
 
+
 ### 🚀 About Me
 An enthusiastic Computer Science student focused on Core DevOps, automating infrastructure, and building scalable full-stack applications.
 
@@ -30,11 +31,16 @@ An enthusiastic Computer Science student focused on Core DevOps, automating infr
 </p>
 
 
-## 🧛‍♂️ Contribution Dracula Style
+## 🤝 Connect with Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dracula/dracula-theme.github.io/main/src/assets/dracula-animated.gif" width="80px" /><br/>
-  <img src="https://raw.githubusercontent.com/ishakushwaha2028/ishakushwaha2028/output/github-contribution-grid-snake-dark.svg" alt="Dracula Contribution Grid" width="100%" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/isha-kumari-9868702a6?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="isha42341@gmail.com@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 </p>
 
 
