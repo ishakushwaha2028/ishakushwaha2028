@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Isha Kumari 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ishakushwaha2028&label=Profile%20Views&color=bd93f9&style=flat" alt="Views" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00fdff&text=Isha%20Kumari&animation=twinkling&fontSize=50&fontAlignY=40&fontColor=ffffff&theme=dracula&height=220" width="100%" />
 </p>
 
 ### 🚀 About Me
@@ -42,7 +42,6 @@ An enthusiastic Computer Science student focused on Core DevOps, automating infr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishakushwaha2028&layout=compact&theme=dracula" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ishakushwaha2028&show_icons=true&theme=dracula" alt="Isha's GitHub Stats" width="48%" />
 </p>
 
 <p align="center">
