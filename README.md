@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Isha Kumari 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f,00bfff&text=Isha%20Kumari&animation=twinkling&fontSize=50&fontAlignY=40&fontColor=ffffff&height=220" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=031B33,00F2FE&text=Isha%20Kumari&animation=twinkling&fontSize=50&fontAlignY=40&fontColor=ffffff&height=220" width="100%" />
 </p>
 
 ### 🚀 About Me
