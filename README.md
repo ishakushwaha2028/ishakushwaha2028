@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Isha Kumari 
 
 <p align="center">
-  <img src="https://kapa-render.vercel.app/api?type=slice&color=031B33,00F2FE&text=Isha%20Kumari&fontSize=50&fontColor=ffffff&height=200" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=031B33%2C00F2FE&text=Isha%20Kumari&fontSize=50&fontColor=ffffff&height=200" width="100%" />
 </p>
 
 
