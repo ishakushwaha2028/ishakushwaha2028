@@ -38,16 +38,17 @@ An enthusiastic Computer Science student focused on Core DevOps, automating infr
 </p>
 
 
-## 📊 GitHub Analytics (Dracula Theme)
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishakushwaha2028&layout=compact&theme=dracula" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishakushwaha2028&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="165px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ishakushwaha2028&show_icons=true&theme=dracula&hide_border=true" alt="Isha's GitHub Stats" height="165px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishakushwaha2028&theme=dracula" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishakushwaha2028&theme=dracula&hide_border=true" alt="GitHub Streak" height="165px" />
 </p>
-
 
 <!--
 **ishakushwaha2028/ishakushwaha2028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
