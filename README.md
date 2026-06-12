@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Isha Kumari 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpcWZid2xqd3BwN3R5Z3RnbW96bWp3bXp3ZzBnd3B3Z3B3Z3B3Z3B3Jm09ZQ/3oKIPnAiaMCws8nOsE/giphy.gif" alt="DevOps Infrastructure" width="100%" style="border-radius: 8px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00fdff&text=Isha%20Kumari&animation=twinkling&fontSize=50&fontAlignY=40&fontColor=ffffff&theme=dracula&height=220" width="100%" />
 </p>
 
 ### 🚀 About Me
