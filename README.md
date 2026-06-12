@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Isha Kumari 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00fdff&text=Isha%20Kumari&animation=twinkling&fontSize=50&fontAlignY=40&fontColor=ffffff&theme=dracula&height=220" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3c72,00fdff&text=Isha%20Kumari&animation=twinkling&fontSize=50&fontAlignY=40&fontColor=ffffff&height=220" width="100%" />
 </p>
 
 
@@ -34,13 +34,13 @@ An enthusiastic Computer Science student focused on Core DevOps, automating infr
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/isha-kumari-9868702a6?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/isha-kumari-9868702a6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00fdff?style=for-the-badge&logo=linkedin&logoColor=black&logoWidth=25" alt="LinkedIn" height="40px" />
   </a>
-  <a href="isha42341@gmail.com@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  &nbsp;&nbsp;
+  <a href="mailto:isha42341@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-bd93f9?style=for-the-badge&logo=gmail&logoColor=black&logoWidth=25" alt="Gmail" height="40px" />
   </a>
-</p>
 </p>
 
 
