@@ -1,11 +1,11 @@
- ###Hi there 👋 I'm Isha Kumari 
+ ### Hi there 👋 I'm Isha Kumari 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=11,031B33,00F2FE&text=Isha%20Kumari&animation=twinkling&fontSize=50&fontAlignY=40&fontColor=ffffff&height=220" width="100%" />
 </p>
 
 
-###🚀 About Me
+### 🚀 About Me
 An enthusiastic Computer Science student focused on Core DevOps, automating infrastructure, and building scalable full-stack applications.
 
 
@@ -31,7 +31,7 @@ An enthusiastic Computer Science student focused on Core DevOps, automating infr
 </p>
 
 
-###🤝 Connect with Me
+### 🤝 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/isha-kumari-9868702a6" target="_blank">
