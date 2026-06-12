@@ -1,8 +1,18 @@
 # Hi there 👋 I'm Isha Kumari 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=031B33,00F2FE&text=Isha%20Kumari&fontSize=50&fontColor=ffffff&height=200" width="100%" />
+  <svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="richGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#031B33;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#00F2FE;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="200" fill="url(#richGradient)" rx="10" />
+    <text x="50%" y="55%" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="bold" fill="#ffffff" dominant-baseline="middle" text-anchor="middle">Isha Kumari</text>
+  </svg>
 </p>
+
 
 <p align="center">
   <font color="#00F2FE" size="4"><b>Core DevOps & Full Stack Developer Focused</b></font>
