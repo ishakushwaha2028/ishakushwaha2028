@@ -1,17 +1,64 @@
 # Hi there 👋 I'm Isha Kumari 
 
+<div align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" style="background: #0d1117; border-radius: 12px; border: 1px solid #30363d;">
+    <defs>
+      <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0a192f" />
+        <stop offset="50%" stop-color="#172a45" />
+        <stop offset="100%" stop-color="#30475e" />
+      </linearGradient>
+      <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#61dafb" />
+        <stop offset="100%" stop-color="#00b4d8" />
+      </linearGradient>
+      
+      <style>
+        .title { font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 700; fill: #ffffff; font-size: 40px; letter-spacing: 1px; }
+        .subtitle { font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 600; fill: url(#text-gradient); font-size: 20px; }
+        .tech { font-family: monospace; font-weight: bold; fill: #58a6ff; font-size: 16px; letter-spacing: 2px; }
+        
+        .line1 { animation: cycleLine1 12s infinite ease-in-out; }
+        .line2 { animation: cycleLine2 12s infinite ease-in-out; opacity: 0; }
+        .line3 { animation: cycleLine3 12s infinite ease-in-out; opacity: 0; }
 
-<div align="center" style="background: linear-gradient(135deg, #0d1b2a 0%, #1b263b 50%, #415a77 100%); padding: 40px 20px; border-radius: 12px; margin-bottom: 25px; border: 1px solid #30363d;">
-  <h1 style="color: #ffffff; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 42px; margin: 0 0 10px 0; letter-spacing: 1px;">Isha Kumari</h1>
-  <p style="color: #61dafb; font-family: 'Segoe UI', sans-serif; font-size: 18px; font-weight: 600; margin: 0 0 15px 0; letter-spacing: 0.5px;">DevOps & Infrastructure Enthusiast</p>
-  <p style="color: #e2e8f0; font-family: 'Segoe UI', sans-serif; font-size: 14px; max-width: 600px; margin: 0 auto; line-height: 1.5; opacity: 0.9;">
-    Building scalable web applications • Clean Code Advocate • Infrastructure Automation Enthusiast 🚀
-  </p>
-  <div style="margin-top: 20px; font-weight: bold; color: #58a6ff; font-family: monospace; font-size: 16px;">
-    Linux | Docker | MERN Stack
-  </div>
+        @keyframes cycleLine1 {
+          0%, 25% { opacity: 1; transform: translateY(0px); }
+          30%, 100% { opacity: 0; transform: translateY(-10px); }
+        }
+        @keyframes cycleLine2 {
+          0%, 30% { opacity: 0; transform: translateY(10px); }
+          35%, 60% { opacity: 1; transform: translateY(0px); }
+          65%, 100% { opacity: 0; transform: translateY(-10px); }
+        }
+        @keyframes cycleLine3 {
+          0%, 65% { opacity: 0; transform: translateY(10px); }
+          70%, 95% { opacity: 1; transform: translateY(0px); }
+          100% { opacity: 0; transform: translateY(-10px); }
+        }
+      </style>
+    </defs>
+
+    <rect width="100%" height="100%" fill="url(#bg-gradient)" rx="12" />
+
+    <text x="50%" y="70" text-anchor="middle" class="title">Isha Kumari</text>
+
+    <g class="line1">
+      <text x="50%" y="120" text-anchor="middle" class="subtitle">🚀 Infrastructure Automation Enthusiast</text>
+      <text x="50%" y="160" text-anchor="middle" class="tech">Linux | Docker | Core Infrastructure</text>
+    </g>
+
+    <g class="line2">
+      <text x="50%" y="120" text-anchor="middle" class="subtitle">💻 Building Scalable Web Applications</text>
+      <text x="50%" y="160" text-anchor="middle" class="tech">MongoDB | Express | React | Node.js</text>
+    </g>
+
+    <g class="line3">
+      <text x="50%" y="120" text-anchor="middle" class="subtitle">🛡️ Clean Code Advocate & Tech Lead</text>
+      <text x="50%" y="160" text-anchor="middle" class="tech">Git | Devops | Cloud Systems</text>
+    </g>
+  </svg>
 </div>
----
 
 ## ⚡ Developer Focus
 
