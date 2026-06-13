@@ -1,55 +1,62 @@
 # Hi there 👋 I'm Isha Kumari 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=031B33%2C00F2FE&text=Isha%20Kumari&fontSize=50&fontColor=ffffff&height=200" width="100%" />
-</p>
-
-
 
 <p align="center">
-  <font color="#00F2FE" size="4"><b>Core DevOps & Full Stack Developer Focused</b></font>
+  <img src="https://capsule-render.vercel.app/view?type=waving&color=005b96&height=180&section=header&text=Isha%20Kumari&fontSize=50&fontColor=ffffff&animation=fade" alt="Isha Kumari Banner" />
 </p>
 
-### 🚀 About Me
-An enthusiastic Computer Science student focused on Core DevOps, automating infrastructure, and building scalable full-stack applications.
+<p align="center">
+  <b>Building scalable infrastructure • Automation Advocate • Cloud Enthusiast 🚀</b>
+</p>
 
----
-
-### ⚡ Developer Focus
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<p align="center">
+  <font size="4"><b>Linux | Docker | MERN Stack</b></font>
 </p>
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/isha-kumari-9868702a6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00fdff?style=for-the-badge&logo=linkedin&logoColor=black&logoWidth=25" alt="LinkedIn" height="38px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:isha42341@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bd93f9?style=for-the-badge&logo=gmail&logoColor=black&logoWidth=25" alt="Gmail" height="38px" />
-  </a>
-</p>
+## ⚡ Developer Focus
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Improving In
+* Advanced Container Orchestration and Cloud Tools.
+* Microservices scalability and system monitoring frameworks.
+* Advanced database query optimization and automation scripting.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishakushwaha2028&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="165px" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=ishakushwaha2028&show_icons=true&theme=dracula&hide_border=true" alt="Isha's GitHub Stats" height="165px" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishakushwaha2028&theme=dracula&hide_border=true" alt="GitHub Streak" height="165px" />
-</p>
+## 💬 Ask Me About
+> **DevOps, Automation & Infrastructure**
+> Linux Commands, Docker Environments, CI/CD Concepts, Full-Stack MERN Architecture, Database Modeling, Project Management, and Hackathon Strategy.
+
+---
+
+## 📬 Contact
+<a href="mailto:isha42341@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/isha-kumari-9868702a6">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+---
+
+## 💡 Learning Philosophy
+> ⚡ *Master the fundamentals before chasing complexity.*
+> 🛠️ *Automate repetitive tasks; build reliable systems that last.*
+> 🚀 *Stay curious, keep shipping code, and optimize constantly.*
+
+---
+
+## 🏆 Key Achievements & Competitions
+* **Flipkart GRiD 7.0:** Shortlisted for Round 1, successfully clearing engineering coding assessments.
+* **Hackdiwas 3.0:** Evaluated among the **Top 40 teams** from over 200+ competing groups at United University.
+* **Google Solution Challenge 2026:** Designed, engineered, and submitted an AI working prototype along with full codebase.
+* **UIDAI Data Hackathon 2026:** Served as Team Lead for *UIDAI_1576*, successfully launching the *Aadhaar Update Integrity Analyzer*.
+* **Certifications:** Completed formal training in space exploration techniques with **IIRS ISRO**, along with virtual industry training from **IBM & NASSCOM**.
+
