@@ -1,18 +1,16 @@
 # Hi there 👋 I'm Isha Kumari 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=005b96&height=180&section=header&text=Isha%20Kumari&fontSize=50&fontColor=ffffff&animation=fade" alt="Isha Kumari Banner" />
-</p>
-
-<p align="center">
-  <b>Building scalable infrastructure • Automation Advocate • Cloud Enthusiast 🚀</b>
-</p>
-
-<p align="center">
-  <font size="4"><b>Linux | Docker | MERN Stack</b></font>
-</p>
-
+<div align="center" style="background: linear-gradient(135deg, #0d1b2a 0%, #1b263b 50%, #415a77 100%); padding: 40px 20px; border-radius: 12px; margin-bottom: 25px; border: 1px solid #30363d;">
+  <h1 style="color: #ffffff; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 42px; margin: 0 0 10px 0; letter-spacing: 1px;">Isha Kumari</h1>
+  <p style="color: #61dafb; font-family: 'Segoe UI', sans-serif; font-size: 18px; font-weight: 600; margin: 0 0 15px 0; letter-spacing: 0.5px;">DevOps & Infrastructure Enthusiast</p>
+  <p style="color: #e2e8f0; font-family: 'Segoe UI', sans-serif; font-size: 14px; max-width: 600px; margin: 0 auto; line-height: 1.5; opacity: 0.9;">
+    Building scalable web applications • Clean Code Advocate • Infrastructure Automation Enthusiast 🚀
+  </p>
+  <div style="margin-top: 20px; font-weight: bold; color: #58a6ff; font-family: monospace; font-size: 16px;">
+    Linux | Docker | MERN Stack
+  </div>
+</div>
 ---
 
 ## ⚡ Developer Focus
