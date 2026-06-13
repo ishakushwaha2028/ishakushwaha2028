@@ -11,6 +11,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=900&color=00F0FF&center=true&vCenter=true&width=850&lines=Core+DevOps+%26+Infrastructure+Engineer;Linux+%7C+Docker+%7C+Kubernetes+%7C+AWS;Automating+Infrastructure+with+CI%2FCD;MERN+Stack+%26+Java+Backend;Building+Scalable+%26+Secure+Systems"/>
 </p>
+
+
 ## ⚡ Developer Focus
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
