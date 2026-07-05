@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Isha Kumari 
 
 <p align="center">    
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&section=header&text=Isha%20Kumari&fontSize=74&fontColor=ffffff&animation=fadeIn&color=0:0A192F,50:0072FF,100:00F0FF&fontAlignY=40&desc=Java%20Full%20Stack%20Developer&descSize=30&descAlign=center&descAlignY=68&descColor=ffffff" alt="header"/>   
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&section=header&text=Isha%20Kumari&fontSize=74&fontColor=ffffff&animation=fadeIn&color=0:0A192F,50:0072FF,100:00F0FF&fontAlignY=40&desc=%20Full%20Stack%20Developer&descSize=30&descAlign=center&descAlignY=68&descColor=ffffff" alt="header"/>   
 </p>   
     
 <p align="center"> 
