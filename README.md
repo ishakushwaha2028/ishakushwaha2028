@@ -56,7 +56,7 @@
 * **Google Solution Challenge 2026:** Designed, engineered, and submitted an AI working prototype along with full codebase.
 * **UIDAI Data Hackathon 2026:** Served as Team Lead for *UIDAI_1576*, successfully launching the *Aadhaar Update Integrity Analyzer*.
 * **Certifications:** Completed formal training in space exploration techniques with **IIRS ISRO**, along with virtual industry training from **IBM & NASSCOM**.
-
+* **IET India Scholarship:** Shortlisted for Round 1, successfully clearing the screening round.
 ---
 
 🐍 Contribution Snake
