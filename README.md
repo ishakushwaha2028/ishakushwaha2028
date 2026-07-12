@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=900&color=00F0FF&center=true&vCenter=true&width=850&lines=Core+DevOps+%26+Infrastructure+Engineer;Linux+%7C+Docker+%7C+Kubernetes+%7C+AWS;Automating+Infrastructure+with+CI%2FCD;MERN+Stack+%26+Java+Backend;Building+Scalable+%26+Secure+Systems"/>
-</p>
+ 
 
 
 ## ⚡ Developer Focus
