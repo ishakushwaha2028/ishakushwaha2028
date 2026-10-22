@@ -15,6 +15,14 @@
 <p align="center">
  
 
+### 🎓 Education
+
+| Institution | Degree / Certificate | Timeline | Score |
+| :--- | :--- | :---: | :---: |
+| **United College of Engineering and Research, Prayagraj** | B.Tech in Computer Science and Engineering | 2023 – 2027 | 70% |
+| **Arya Vidyapith Public School, Motihari** | Intermediate (Class XII) | 2020 – 2022 | 74.8% |
+| **DAV Public School, Motihari** | High School (Class X) | 2019 – 2020 | 81.8% |
+
 
 ## 🛠️ Tech Stack & Badges
 
