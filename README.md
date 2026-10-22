@@ -16,10 +16,6 @@
  
 
 
-## ⚡ Developer Focus
-
-
-
 ## 🛠️ Tech Stack & Badges
 
 ### 🎨 Frontend & 3D Graphics
