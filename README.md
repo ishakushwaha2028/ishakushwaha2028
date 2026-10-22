@@ -13,6 +13,7 @@
 
 
 <p align="center">
+  
  ---
 
 ### 🎓 Education
@@ -26,6 +27,7 @@
 ---
 
 ### 🚀 Featured Engineering Projects
+---
 
 <table>
   <tr>
