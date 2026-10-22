@@ -13,17 +13,58 @@
 
 
 <p align="center">
- 
+ ---
 
 ### 🎓 Education
-
+---
 | Institution | Degree / Certificate | Timeline | Score |
 | :--- | :--- | :---: | :---: |
 | **United College of Engineering and Research, Prayagraj** | B.Tech in Computer Science and Engineering | 2023 – 2027 | 70% |
 | **Arya Vidyapith Public School, Motihari** | Intermediate (Class XII) | 2020 – 2022 | 74.8% |
 | **DAV Public School, Motihari** | High School (Class X) | 2019 – 2020 | 81.8% |
 
+---
 
+### 🚀 Featured Engineering Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🪐 Codnite</h3>
+      <p align="center"><b>Distributed Systems & Code Engine</b></p>
+      <p>Low-latency coding platform featuring real-time collaborative execution, WebSocket communications, and robust REST APIs.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🚦 Smart Traffic Detection</h3>
+      <p align="center"><b>Computer Vision & Road Safety</b></p>
+      <p>Automated surveillance system utilizing YOLO and OpenCV to detect, track, and count vehicles in real-time video feeds.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🧬 Cancer Diagnostic AI</h3>
+      <p align="center"><b>Deep Learning & Healthcare</b></p>
+      <p>Prognostic machine learning pipeline designed for early breast cancer diagnosis and feature extraction on medical imagery.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 ## 🛠️ Tech Stack & Badges
 
 ### 🎨 Frontend & 3D Graphics
