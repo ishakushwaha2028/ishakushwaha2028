@@ -71,12 +71,12 @@
 ## 🏆 Key Achievements & Competitions
 * **IIT (BHU) E-Mobility Hackathon:** Secured 3rd place at a national-level hackathon with a ₹10,000 prize pool.
 * **AI Arena:** Ranked among the Top 10 teams and received official swag and goodies.
-* **HackIndia Spark 10:** Won the Grand Finale with Team TECHEEZ, earning recognition among competing teams.
+* **HackIndia Spark 10:** Won the Grand Finale with Team , earning recognition among competing teams with 10,000 prize pool.
 * **Flipkart GRiD 7.0:** Shortlisted for Round 1, successfully clearing engineering coding assessments.
 * **Hackdiwas 3.0:** Evaluated among the **Top 40 teams** from over 200+ competing groups at United University.
 * **Google Solution Challenge 2026:** Designed, engineered, and submitted an AI working prototype along with full codebase.
 * **UIDAI Data Hackathon 2026:** Served as Team Lead for *UIDAI_1576*, successfully launching the *Aadhaar Update Integrity Analyzer*.
-* **Certifications:** Completed formal training in space exploration techniques with **IIRS ISRO**, along with virtual industry training from **IBM & NASSCOM**.
+* **Certifications:** Completed formal training in space exploration techniques with **IIRS ISRO**, along with virtual industry training from **IBM & NASSCOM With stipend 4000**.
 * **IET India Scholarship:** Shortlisted for Round 1, successfully clearing the screening round.
 ---
 
