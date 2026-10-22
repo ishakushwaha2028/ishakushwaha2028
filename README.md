@@ -1,12 +1,16 @@
 # Hi there 👋 I'm Isha Kumari 
 
+
 <p align="center">    
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&section=header&text=Isha%20Kumari&fontSize=74&fontColor=ffffff&animation=fadeIn&color=0:0A192F,50:0072FF,100:00F0FF&fontAlignY=40&desc=%20Full%20Stack%20Developer&descSize=30&descAlign=center&descAlignY=68&descColor=ffffff" alt="header"/>   
-</p>   
-    
-<p align="center"> 
-<strong>Building scalable web applications</strong> • <strong>Automating Infrastructure</strong> • <strong>Backend Architecture Enthusiast</strong> 🚀
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&section=header&text=Isha%20Kumari&fontSize=74&fontColor=ffffff&animation=fadeIn&color=0:0A192F,50:0072FF,100:00F0FF&fontAlignY=40&desc=Tech%20Enthusiast%20%7C%20Problem%20Solver&descSize=24&descAlign=center&descAlignY=68&descColor=ffffff" alt="Isha Kumari - GitHub Profile Header"/>   
 </p>
+
+    
+
+<p align="center">
+  <strong>Exploring Technology</strong> • <strong>Solving Problems</strong> • <strong>Turning Ideas into Reality</strong> 🚀
+</p>
+
 
 <p align="center">
  
@@ -19,16 +23,17 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 
+
 ## 🧠 Improving In
-* Advanced Container Orchestration and Cloud Tools.
-* Microservices scalability and system monitoring frameworks.
-* Advanced database query optimization and automation scripting.
+* Problem-Solving and Analytical Thinking.
+* Exploring Emerging Technologies and Digital Tools.
+* Communication, Collaboration, and Project Execution.
 
 ---
 
 ## 💬 Ask Me About
-> **DevOps, Automation & Infrastructure**
-> Linux Commands, Docker Environments, CI/CD Concepts, Full-Stack MERN Architecture, Database Modeling, Project Management, and Hackathon Strategy.
+> **Technology, Innovation & Problem-Solving**
+> Hackathons and Team Collaboration, Academic Projects, Technology Trends, Creative Ideas, Project Planning, and Learning New Tools.
 
 ---
 
@@ -42,14 +47,11 @@
 
 ---
 
-## 💡 Learning Philosophy
-> ⚡ *Master the fundamentals before chasing complexity.*
-> 🛠️ *Automate repetitive tasks; build reliable systems that last.*
-> 🚀 *Stay curious, keep shipping code, and optimize constantly.*
-
----
 
 ## 🏆 Key Achievements & Competitions
+* **IIT (BHU) E-Mobility Hackathon:** Secured 3rd place at a national-level hackathon with a ₹10,000 prize pool.
+* **AI Arena:** Ranked among the Top 10 teams and received official swag and goodies.
+* **HackIndia Spark 10:** Won the Grand Finale with Team TECHEEZ, earning recognition among competing teams.
 * **Flipkart GRiD 7.0:** Shortlisted for Round 1, successfully clearing engineering coding assessments.
 * **Hackdiwas 3.0:** Evaluated among the **Top 40 teams** from over 200+ competing groups at United University.
 * **Google Solution Challenge 2026:** Designed, engineered, and submitted an AI working prototype along with full codebase.
